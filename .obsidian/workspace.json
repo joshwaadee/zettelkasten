@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0fa52c2e66edc937",
+        "id": "94902552b3c775a2",
         "type": "tabs",
         "children": [
           {
-            "id": "2856aa4a805af46d",
+            "id": "49864f5241df6cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Fat over Lean Rule.md",
-                "mode": "preview",
+                "file": "zettelkasten/2023-11-14.md",
+                "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "efd5bd33c1036c0b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "83627421fec2dc5b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/2023-W45.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
             }
           }
         ]
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/2023-W45.md",
+                "file": "zettelkasten/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/2023-W45.md",
+                "file": "zettelkasten/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/2023-W45.md"
+                "file": "zettelkasten/2023-11-14.md"
               }
             }
           },
@@ -177,15 +157,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83627421fec2dc5b",
+  "active": "49864f5241df6cac",
   "lastOpenFiles": [
+    "zettelkasten/2023-11-14.md",
+    "zettelkasten/2023-11-13.md",
+    "zettelkasten/Borrowing in Rust.md",
+    "zettelkasten/Ownership in Rust.md",
+    "zettelkasten/This Is My First Note.md",
     "zettelkasten/Fat over Lean Rule.md",
+    "zettelkasten/refference.md",
+    "zettelkasten/garbage collection.md",
+    "zettelkasten/Rust Language Book.md",
+    "templates/book_note.md",
+    "zettelkasten/Untitled 1.md",
     "zettelkasten/2023-W45.md",
     "zettelkasten/2023-11-12.md",
     "templates/Weekly template.md",
     "templates/Daily template.md",
     "templates/core_zettel_idea.md",
-    "zettelkasten/This Is My First Note.md",
     "zettelkasten/This is my first note.md",
     "zettelkasten",
     "templates",
