@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94902552b3c775a2",
+        "id": "600ad08a4311a46c",
         "type": "tabs",
         "children": [
           {
-            "id": "49864f5241df6cac",
+            "id": "4fb8714766870e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/2023-11-14.md",
+                "file": "zettelkasten/2023-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/2023-11-14.md",
+                "file": "zettelkasten/2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/2023-11-14.md",
+                "file": "zettelkasten/2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/2023-11-14.md"
+                "file": "zettelkasten/2023-11-15.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +156,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49864f5241df6cac",
+  "active": "4fb8714766870e93",
   "lastOpenFiles": [
+    "zettelkasten/2023-11-15.md",
     "zettelkasten/2023-11-14.md",
     "zettelkasten/2023-11-13.md",
     "zettelkasten/Borrowing in Rust.md",
