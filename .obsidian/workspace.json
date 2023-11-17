@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md",
+                "file": "zettelkasten/2023-11-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8675221e8395f8e1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md",
+                "file": "zettelkasten/2023-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md",
+                "file": "zettelkasten/2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md"
+                "file": "zettelkasten/2023-11-16.md"
               }
             }
           },
@@ -158,12 +159,17 @@
   },
   "active": "6b0661fb5ae3ef8a",
   "lastOpenFiles": [
-    "zettelkasten/2023-11-15.md",
+    "weekly_notes/2023-W45.md",
+    "zettelkasten/2023-11-16.md",
+    "daily_notes/2023-11-15.md",
+    "weekly_notes",
+    "zettelkasten/wee.md",
+    "zettelkasten/Borrowing in Rust.md",
+    "daily_notes",
     "zettelkasten/Ownership in Rust.md",
     "zettelkasten/().md",
-    "zettelkasten/2023-11-14.md",
-    "zettelkasten/2023-11-13.md",
-    "zettelkasten/Borrowing in Rust.md",
+    "daily_notes/2023-11-14.md",
+    "daily_notes/2023-11-13.md",
     "zettelkasten/This Is My First Note.md",
     "zettelkasten/Fat over Lean Rule.md",
     "zettelkasten/refference.md",
@@ -171,8 +177,7 @@
     "zettelkasten/Rust Language Book.md",
     "templates/book_note.md",
     "zettelkasten/Untitled 1.md",
-    "zettelkasten/2023-W45.md",
-    "zettelkasten/2023-11-12.md",
+    "daily_notes/2023-11-12.md",
     "templates/Weekly template.md",
     "templates/Daily template.md",
     "templates/core_zettel_idea.md",
