@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3b0a36636447f103",
+        "id": "42fa7496d1989234",
         "type": "tabs",
         "children": [
           {
-            "id": "853937145580935e",
+            "id": "46e7b24076b0c00e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly_notes/2023-W46.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly_notes/2023-W46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly_notes/2023-W46.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weekly_notes/2023-W46.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,12 +129,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +147,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "853937145580935e",
+  "active": "46e7b24076b0c00e",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "zettelkasten/This Is My First Note.md",
+    "zettelkasten/John Arthur.md",
+    "zettelkasten/Ownership.md",
+    "zettelkasten/Active Externalism.md",
     "weekly_notes/2023-W46.md",
+    "zettelkasten/Extended Mind Thesis.md",
     "daily_notes/2023-11-17.md",
     "daily_notes/2023-11-16.md",
     "daily_notes/2023-11-15.md",
@@ -166,26 +162,24 @@
     "daily_notes/2023-11-13.md",
     "daily_notes/2023-11-12.md",
     "weekly_notes/2023-W45.md",
+    "zettelkasten/Rust Language Book.md",
+    "zettelkasten/Priya.md",
+    "zettelkasten/Ownership in Rust.md",
+    "zettelkasten/linter.md",
+    "zettelkasten/garbage collection.md",
+    "zettelkasten/Fat over Lean Rule.md",
+    "zettelkasten/Derrek Doe.md",
+    "zettelkasten/Borrowing in Rust.md",
+    "Untitled.canvas",
     "weekly_notes",
     "zettelkasten/wee.md",
-    "zettelkasten/Borrowing in Rust.md",
     "daily_notes",
-    "zettelkasten/Ownership in Rust.md",
     "zettelkasten/().md",
-    "zettelkasten/This Is My First Note.md",
-    "zettelkasten/Fat over Lean Rule.md",
     "zettelkasten/refference.md",
-    "zettelkasten/garbage collection.md",
-    "zettelkasten/Rust Language Book.md",
     "templates/book_note.md",
     "zettelkasten/Untitled 1.md",
-    "templates/Weekly template.md",
-    "templates/Daily template.md",
-    "templates/core_zettel_idea.md",
-    "zettelkasten/This is my first note.md",
     "zettelkasten",
     "templates",
-    "files",
-    "Thick on Thin.md"
+    "files"
   ]
 }

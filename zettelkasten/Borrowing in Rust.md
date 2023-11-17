@@ -11,8 +11,6 @@ If we need to use a value without taking ownership, we can borrow that value by 
 
 - At any given time you can have *either* one mutable reference or any number if immutable references
 
-
-
 ---
 # References
 
