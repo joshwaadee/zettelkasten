@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3d3982e207d5128",
+        "id": "3b0a36636447f103",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0661fb5ae3ef8a",
+            "id": "853937145580935e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/2023-11-16.md",
+                "file": "weekly_notes/2023-W46.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8675221e8395f8e1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/2023-11-16.md",
+                "file": "weekly_notes/2023-W46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/2023-11-16.md",
+                "file": "weekly_notes/2023-W46.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/2023-11-16.md"
+                "file": "weekly_notes/2023-W46.md"
               }
             }
           },
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,19 +155,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b0661fb5ae3ef8a",
+  "active": "853937145580935e",
   "lastOpenFiles": [
-    "weekly_notes/2023-W45.md",
-    "zettelkasten/2023-11-16.md",
+    "Untitled.canvas",
+    "weekly_notes/2023-W46.md",
+    "daily_notes/2023-11-17.md",
+    "daily_notes/2023-11-16.md",
     "daily_notes/2023-11-15.md",
+    "daily_notes/2023-11-14.md",
+    "daily_notes/2023-11-13.md",
+    "daily_notes/2023-11-12.md",
+    "weekly_notes/2023-W45.md",
     "weekly_notes",
     "zettelkasten/wee.md",
     "zettelkasten/Borrowing in Rust.md",
     "daily_notes",
     "zettelkasten/Ownership in Rust.md",
     "zettelkasten/().md",
-    "daily_notes/2023-11-14.md",
-    "daily_notes/2023-11-13.md",
     "zettelkasten/This Is My First Note.md",
     "zettelkasten/Fat over Lean Rule.md",
     "zettelkasten/refference.md",
@@ -177,7 +179,6 @@
     "zettelkasten/Rust Language Book.md",
     "templates/book_note.md",
     "zettelkasten/Untitled 1.md",
-    "daily_notes/2023-11-12.md",
     "templates/Weekly template.md",
     "templates/Daily template.md",
     "templates/core_zettel_idea.md",
