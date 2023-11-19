@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42fa7496d1989234",
+        "id": "5948f6ca38273fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "46e7b24076b0c00e",
+            "id": "e660b0307e82f2c8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "59c04087940f55a8",
+            "id": "fe231770f84cde08",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,37 +148,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "46e7b24076b0c00e",
+  "active": "e660b0307e82f2c8",
   "lastOpenFiles": [
-    "zettelkasten/This Is My First Note.md",
-    "zettelkasten/John Arthur.md",
-    "zettelkasten/Ownership.md",
-    "zettelkasten/Active Externalism.md",
-    "weekly_notes/2023-W46.md",
+    "daily_notes/2023-11-19.md",
     "zettelkasten/Extended Mind Thesis.md",
-    "daily_notes/2023-11-17.md",
-    "daily_notes/2023-11-16.md",
-    "daily_notes/2023-11-15.md",
-    "daily_notes/2023-11-14.md",
-    "daily_notes/2023-11-13.md",
-    "daily_notes/2023-11-12.md",
-    "weekly_notes/2023-W45.md",
+    "zettelkasten/Derrek Doe.md",
+    "zettelkasten/Borrowing in Rust.md",
+    "zettelkasten/Active Externalism.md",
+    "daily_notes/2023-11-18.md",
+    "zettelkasten/This Experiment Undid Our Cities. How Do We Fix It?.md",
     "zettelkasten/Rust Language Book.md",
     "zettelkasten/Priya.md",
     "zettelkasten/Ownership in Rust.md",
     "zettelkasten/linter.md",
+    "zettelkasten/John Arthur.md",
     "zettelkasten/garbage collection.md",
     "zettelkasten/Fat over Lean Rule.md",
-    "zettelkasten/Derrek Doe.md",
-    "zettelkasten/Borrowing in Rust.md",
+    "zettelkasten/Untitled.md",
+    "daily_notes/2023-11-15.md",
+    "daily_notes/2023-11-16.md",
+    "daily_notes/2023-11-17.md",
+    "daily_notes/2023-11-14.md",
+    "daily_notes/2023-11-13.md",
+    "daily_notes/2023-11-12.md",
+    "zettelkasten/This Is My First Note.md",
+    "zettelkasten/Ownership.md",
+    "weekly_notes/2023-W46.md",
+    "weekly_notes/2023-W45.md",
     "Untitled.canvas",
     "weekly_notes",
     "zettelkasten/wee.md",
     "daily_notes",
-    "zettelkasten/().md",
-    "zettelkasten/refference.md",
-    "templates/book_note.md",
-    "zettelkasten/Untitled 1.md",
     "zettelkasten",
     "templates",
     "files"
