@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "48563a5a5bde71df",
+    "type": "split",
+    "children": [
+      {
+        "id": "5948f6ca38273fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e660b0307e82f2c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0256708daabd8c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fe8ef5940eeae66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fc982cba3b06390",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b12a49277a3538b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe231770f84cde08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8675221e8395f8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b727e327d5b0444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6411b8a1c91fbd4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68d811f28ec50d7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9745f8a09b76f94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c47a33269e2a1855",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d404a6eeb7b76edb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e660b0307e82f2c8",
+  "lastOpenFiles": [
+    "daily_notes/2023-11-19.md",
+    "zettelkasten/Extended Mind Thesis.md",
+    "zettelkasten/Derrek Doe.md",
+    "zettelkasten/Borrowing in Rust.md",
+    "zettelkasten/Active Externalism.md",
+    "daily_notes/2023-11-18.md",
+    "zettelkasten/This Experiment Undid Our Cities. How Do We Fix It?.md",
+    "zettelkasten/Rust Language Book.md",
+    "zettelkasten/Priya.md",
+    "zettelkasten/Ownership in Rust.md",
+    "zettelkasten/linter.md",
+    "zettelkasten/John Arthur.md",
+    "zettelkasten/garbage collection.md",
+    "zettelkasten/Fat over Lean Rule.md",
+    "zettelkasten/Untitled.md",
+    "daily_notes/2023-11-15.md",
+    "daily_notes/2023-11-16.md",
+    "daily_notes/2023-11-17.md",
+    "daily_notes/2023-11-14.md",
+    "daily_notes/2023-11-13.md",
+    "daily_notes/2023-11-12.md",
+    "zettelkasten/This Is My First Note.md",
+    "zettelkasten/Ownership.md",
+    "weekly_notes/2023-W46.md",
+    "weekly_notes/2023-W45.md",
+    "Untitled.canvas",
+    "weekly_notes",
+    "zettelkasten/wee.md",
+    "daily_notes",
+    "zettelkasten",
+    "templates",
+    "files"
+  ]
+}
