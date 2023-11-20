@@ -1,7 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "zettelkasten",
-  "attachmentFolderPath": "files",
+  "attachmentFolderPath": "attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": false,

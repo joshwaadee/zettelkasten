@@ -4,45 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e9211c04e3373e",
-        "type": "split",
+        "id": "5948f6ca38273fe3",
+        "type": "tabs",
         "children": [
           {
-            "id": "5948f6ca38273fe3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e660b0307e82f2c8",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "daily_notes/2023-11-20.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ]
+            "id": "e660b0307e82f2c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/2023-11-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           },
           {
-            "id": "dd9f54751c06703e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b0d5ce080f1d4c65",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+            "id": "cf2da206a2748bbe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "32972b7abf94588d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Borrowing in Rust.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "ae34a576ef420ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/Borrowing in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/Borrowing in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/Borrowing in Rust.md"
+              }
             }
           },
           {
@@ -175,34 +191,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b0d5ce080f1d4c65",
+  "active": "32972b7abf94588d",
   "lastOpenFiles": [
-    "zettelkasten/Ownership.md",
+    "zettelkasten/Book.md",
     "daily_notes/2023-11-20.md",
+    "zettelkasten/Borrowing in Rust.md",
+    "zettelkasten/Derrek Doe.md",
     "zettelkasten/Adaptable Neighbourhoods.md",
+    "zettelkasten/Active Externalism.md",
+    "daily_notes/2023-11-13.md",
+    "attachments/23318 1.jpg",
+    "Adaptable Neighbourhoods.pdf",
+    "2023-11-20.pdf",
+    "attachments/23318.jpg",
+    "attachments",
     "zettelkasten/This Experiment Undid Our Cities. How Do We Fix It.md",
+    "zettelkasten/John Arthur.md",
+    "zettelkasten/Priya.md",
+    "templates/Daily template.md",
+    "zettelkasten/linter.md",
+    "zettelkasten/Ownership.md",
     "zettelkasten/2023-11-20.md",
     "daily_notes/2023-11-19.md",
     "zettelkasten/Extended Mind Thesis.md",
-    "zettelkasten/Derrek Doe.md",
-    "zettelkasten/Borrowing in Rust.md",
-    "zettelkasten/Active Externalism.md",
     "daily_notes/2023-11-18.md",
     "zettelkasten/This Experiment Undid Our Cities. How Do We Fix It?.md",
     "zettelkasten/Rust Language Book.md",
-    "zettelkasten/Priya.md",
     "zettelkasten/Ownership in Rust.md",
-    "zettelkasten/linter.md",
-    "zettelkasten/John Arthur.md",
     "zettelkasten/garbage collection.md",
     "zettelkasten/Fat over Lean Rule.md",
     "daily_notes/2023-11-15.md",
     "daily_notes/2023-11-16.md",
     "daily_notes/2023-11-17.md",
     "daily_notes/2023-11-14.md",
-    "daily_notes/2023-11-13.md",
-    "daily_notes/2023-11-12.md",
-    "zettelkasten/This Is My First Note.md",
     "Untitled.canvas",
     "weekly_notes",
     "daily_notes",

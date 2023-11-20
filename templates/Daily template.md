@@ -8,6 +8,10 @@
 
 - 
 
+## Ideas
+
+- 
+
 ## Interesting links
 
 - 
