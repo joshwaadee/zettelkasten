@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5948f6ca38273fe3",
-        "type": "tabs",
+        "id": "d7e9211c04e3373e",
+        "type": "split",
         "children": [
           {
-            "id": "e660b0307e82f2c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_notes/2023-11-20.md",
-                "mode": "source",
-                "source": false
+            "id": "5948f6ca38273fe3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e660b0307e82f2c8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily_notes/2023-11-20.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "dd9f54751c06703e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0d5ce080f1d4c65",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily_notes/2023-11-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +175,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d404a6eeb7b76edb",
+  "active": "b0d5ce080f1d4c65",
   "lastOpenFiles": [
+    "zettelkasten/Ownership.md",
     "daily_notes/2023-11-20.md",
+    "zettelkasten/Adaptable Neighbourhoods.md",
+    "zettelkasten/This Experiment Undid Our Cities. How Do We Fix It.md",
     "zettelkasten/2023-11-20.md",
     "daily_notes/2023-11-19.md",
     "zettelkasten/Extended Mind Thesis.md",
@@ -174,7 +196,6 @@
     "zettelkasten/John Arthur.md",
     "zettelkasten/garbage collection.md",
     "zettelkasten/Fat over Lean Rule.md",
-    "zettelkasten/Untitled.md",
     "daily_notes/2023-11-15.md",
     "daily_notes/2023-11-16.md",
     "daily_notes/2023-11-17.md",
@@ -182,8 +203,6 @@
     "daily_notes/2023-11-13.md",
     "daily_notes/2023-11-12.md",
     "zettelkasten/This Is My First Note.md",
-    "zettelkasten/Ownership.md",
-    "weekly_notes/2023-W46.md",
     "Untitled.canvas",
     "weekly_notes",
     "daily_notes",
