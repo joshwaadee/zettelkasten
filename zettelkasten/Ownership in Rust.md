@@ -18,11 +18,10 @@ The system of ownership is how Rust can make memory safety guarantees without ne
 	let s = "hello";    // s is valid from this point on
 	
 	// do stuff with s
-}                       // this scope is over, s 
-						// isn't valid any more
+}                       // this scope is over, s isn't valid any more
 ```
 
-
+Values can be have temporary ownership by [[Borrowing in Rust]].
 
 
 ---

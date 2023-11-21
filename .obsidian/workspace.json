@@ -8,34 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e660b0307e82f2c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_notes/2023-11-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "cf2da206a2748bbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "32972b7abf94588d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md",
+                "file": "zettelkasten/Ownership in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,6 +29,20 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "62bdf96c3902eeba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/2023-11-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -120,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md",
+                "file": "daily_notes/2023-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md",
+                "file": "daily_notes/2023-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Borrowing in Rust.md"
+                "file": "daily_notes/2023-11-21.md"
               }
             }
           },
@@ -191,11 +183,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32972b7abf94588d",
+  "active": "62bdf96c3902eeba",
   "lastOpenFiles": [
+    "zettelkasten/Mercy.md",
+    "daily_notes/2023-11-21.md",
+    "zettelkasten/Ownership in Rust.md",
     "zettelkasten/Book.md",
-    "daily_notes/2023-11-20.md",
+    "Ownership in Rust.pdf",
+    "zettelkasten/garbage collection.md",
     "zettelkasten/Borrowing in Rust.md",
+    "daily_notes/2023-11-20.md",
     "zettelkasten/Derrek Doe.md",
     "zettelkasten/Adaptable Neighbourhoods.md",
     "zettelkasten/Active Externalism.md",
@@ -217,13 +214,9 @@
     "daily_notes/2023-11-18.md",
     "zettelkasten/This Experiment Undid Our Cities. How Do We Fix It?.md",
     "zettelkasten/Rust Language Book.md",
-    "zettelkasten/Ownership in Rust.md",
-    "zettelkasten/garbage collection.md",
     "zettelkasten/Fat over Lean Rule.md",
     "daily_notes/2023-11-15.md",
     "daily_notes/2023-11-16.md",
-    "daily_notes/2023-11-17.md",
-    "daily_notes/2023-11-14.md",
     "Untitled.canvas",
     "weekly_notes",
     "daily_notes",
