@@ -11,8 +11,12 @@
             "id": "ae34a576ef420ab0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/2023-11-22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily_notes/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily_notes/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,6 +157,8 @@
   },
   "active": "3fc982cba3b06390",
   "lastOpenFiles": [
+    "attachments",
+    "attachments/GitHub-Flow.webp",
     "attachments/Thumbs.db",
     "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
     "notes/This Is My First Note.md",
@@ -189,7 +196,6 @@
     "2023-11-20.pdf",
     "attachments/23318.jpg",
     "attachments",
-    "Untitled.canvas",
-    "weekly_notes"
+    "Untitled.canvas"
   ]
 }
