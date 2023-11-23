@@ -1,5 +1,5 @@
 2023-11-1311:22
-Status: #idea
+Status: #inbox
 ---
 Tags: #programming #coding #rust #memory 
 ---

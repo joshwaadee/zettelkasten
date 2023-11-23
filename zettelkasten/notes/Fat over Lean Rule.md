@@ -1,5 +1,5 @@
 2023-11-1219:26
-Status: #idea
+Status: #inbox
 ---
 Tags: #painting #art 
 ---

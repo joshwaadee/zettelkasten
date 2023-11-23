@@ -1,5 +1,5 @@
 {{date:}}{{time}}
-Status: #idea
+Status: #inbox
 ---
 Tags:
 ---

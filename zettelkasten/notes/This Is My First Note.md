@@ -1,5 +1,5 @@
 2023-11-1219:21
-Status: #idea
+Status: #inbox
 ---
 Tags: #i #can #put #tags #here
 ---

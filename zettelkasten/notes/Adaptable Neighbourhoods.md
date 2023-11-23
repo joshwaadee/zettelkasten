@@ -1,5 +1,5 @@
 2023-11-2011:11
-Status: #idea
+Status: #permenant 
 ---
 Tags: #housing #economics 
 ---
