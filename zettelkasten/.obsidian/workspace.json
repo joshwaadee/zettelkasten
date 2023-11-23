@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Principles of Note Taking.md",
+                "file": "notes/Extended Mind Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
               "state": {
                 "file": "notes/Principles of Note Taking.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -184,16 +184,17 @@
   "active": "afc2bcc298ea87c2",
   "lastOpenFiles": [
     "notes/Fat over Lean Rule.md",
-    "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
+    "templates/core_zettel_note.md",
     "notes/Principles of Note Taking.md",
+    "notes/Extended Mind Thesis.md",
+    "templates/core_zettel_idea.md",
+    "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
     "notes/Rust Language Book.md",
     "notes/Ownership in Rust.md",
-    "notes/Extended Mind Thesis.md",
     "notes/Borrowing in Rust.md",
     "notes/Adaptable Neighbourhoods.md",
     "notes/Active Externalism.md",
     "notes/This Is My First Note.md",
-    "templates/core_zettel_note.md",
     "templates/Weekly template.md",
     "templates/Daily template.md",
     "templates/book_note.md",
