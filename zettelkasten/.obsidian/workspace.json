@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f28707db21c45129",
+            "id": "ed29253170434caa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baa39c40be236f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Extended Mind Thesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afc2bcc298ea87c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Fat over Lean Rule.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Fat over Lean Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Fat over Lean Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Fat over Lean Rule.md"
+              }
             }
           },
           {
@@ -148,21 +181,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f28707db21c45129",
+  "active": "afc2bcc298ea87c2",
   "lastOpenFiles": [
-    "notes/Adaptable Neighbourhoods.md",
-    "attachments/Thumbs.db",
-    "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
-    "notes/This Is My First Note.md",
-    "notes/Rust Language Book.md",
-    "notes/Priya.md",
-    "notes/Ownership in Rust.md",
-    "notes/John Arthur.md",
-    "notes/Fat over Lean Rule.md",
     "notes/Extended Mind Thesis.md",
+    "notes/Principles of Note Taking.md",
+    "templates/core_zettel_idea.md",
+    "notes/Fat over Lean Rule.md",
+    "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
+    "notes/Rust Language Book.md",
+    "notes/Ownership in Rust.md",
     "notes/Borrowing in Rust.md",
-    "notes/Derrek Doe.md",
+    "notes/Adaptable Neighbourhoods.md",
     "notes/Active Externalism.md",
+    "notes/This Is My First Note.md",
+    "templates/core_zettel_note.md",
+    "templates/Weekly template.md",
+    "templates/Daily template.md",
+    "templates/book_note.md",
+    "attachments/23318 1.jpg",
+    "attachments/Thumbs.db",
+    "notes/Priya.md",
+    "notes/John Arthur.md",
+    "notes/Derrek Doe.md",
     "notes",
     "journal/weekly_notes/2023-W46.md",
     "journal/weekly_notes/2023-W45.md",
@@ -173,16 +213,10 @@
     "journal/daily_notes/2023-11-19.md",
     "journal/daily_notes/2023-11-18.md",
     "journal/daily_notes/2023-11-17.md",
-    "journal/daily_notes/2023-11-16.md",
-    "journal/daily_notes/2023-11-15.md",
-    "journal/daily_notes/2023-11-13.md",
-    "journal/daily_notes/2023-11-14.md",
-    "journal/daily_notes/2023-11-12.md",
     "journal/daily_notes",
     "journal",
     "New folder",
     "Ownership in Rust.pdf",
-    "attachments/23318 1.jpg",
     "Adaptable Neighbourhoods.pdf",
     "2023-11-20.pdf",
     "attachments/23318.jpg",
