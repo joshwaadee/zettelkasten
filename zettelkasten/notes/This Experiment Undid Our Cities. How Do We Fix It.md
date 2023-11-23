@@ -1,5 +1,5 @@
 2023-11-18
-#media
+#media #inbox 
 ---
 
 # This Experiment Undid Our Cities. How Do We Fix It?

@@ -1,5 +1,5 @@
 2023-11-1309:06
-Status: #idea
+Status: #permenant
 ---
 Tags: #programming #rust #coding #memory
 ---
