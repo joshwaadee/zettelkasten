@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b417931cbaa1ad36",
+        "id": "c018c3056362a689",
         "type": "tabs",
         "children": [
           {
-            "id": "6b41f15b7be6922c",
+            "id": "547bb53fbdbaec6d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/2023-12-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily_notes/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily_notes/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily_notes/2023-12-04.md"
+              }
             }
           },
           {
@@ -148,12 +156,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b41f15b7be6922c",
+  "active": "547bb53fbdbaec6d",
   "lastOpenFiles": [
     "daily_notes/2023-11-23.md",
+    "daily_notes/2023-11-29.md",
+    "daily_notes/2023-12-04.md",
+    "attachments/GitHub-Flow.webp",
+    "daily_notes/2023-11-12.md",
     "daily_notes/2023-11-22.md",
     "attachments",
-    "attachments/GitHub-Flow.webp",
     "attachments/Thumbs.db",
     "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
     "notes/This Is My First Note.md",
@@ -177,10 +188,6 @@
     "journal/daily_notes/2023-11-19.md",
     "journal/daily_notes/2023-11-18.md",
     "journal/daily_notes/2023-11-17.md",
-    "journal/daily_notes/2023-11-16.md",
-    "journal/daily_notes/2023-11-15.md",
-    "journal/daily_notes/2023-11-13.md",
-    "journal/daily_notes/2023-11-14.md",
     "journal/daily_notes",
     "journal",
     "New folder",

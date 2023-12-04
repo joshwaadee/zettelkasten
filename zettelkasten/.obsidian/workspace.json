@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Fat over Lean Rule.md",
+                "file": "notes/Principles of Note Taking.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Fat over Lean Rule.md",
+                "file": "notes/Principles of Note Taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Fat over Lean Rule.md",
+                "file": "notes/Principles of Note Taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Fat over Lean Rule.md"
+                "file": "notes/Principles of Note Taking.md"
               }
             }
           },
@@ -183,6 +183,44 @@
   },
   "active": "afc2bcc298ea87c2",
   "lastOpenFiles": [
-    
+    "notes/Ownership in Rust.md",
+    "notes/Fat over Lean Rule.md",
+    "templates/core_zettel_note.md",
+    "notes/Principles of Note Taking.md",
+    "templates/core_zettel_idea.md",
+    "notes/Extended Mind Thesis.md",
+    "notes/This Experiment Undid Our Cities. How Do We Fix It.md",
+    "notes/Rust Language Book.md",
+    "notes/Borrowing in Rust.md",
+    "notes/Adaptable Neighbourhoods.md",
+    "notes/Active Externalism.md",
+    "notes/This Is My First Note.md",
+    "templates/Weekly template.md",
+    "templates/Daily template.md",
+    "templates/book_note.md",
+    "attachments/23318 1.jpg",
+    "attachments/Thumbs.db",
+    "notes/Priya.md",
+    "notes/John Arthur.md",
+    "notes/Derrek Doe.md",
+    "notes",
+    "journal/weekly_notes/2023-W46.md",
+    "journal/weekly_notes/2023-W45.md",
+    "journal/weekly_notes",
+    "journal/daily_notes/2023-11-22.md",
+    "journal/daily_notes/2023-11-21.md",
+    "journal/daily_notes/2023-11-20.md",
+    "journal/daily_notes/2023-11-19.md",
+    "journal/daily_notes/2023-11-18.md",
+    "journal/daily_notes/2023-11-17.md",
+    "journal/daily_notes",
+    "journal",
+    "New folder",
+    "Ownership in Rust.pdf",
+    "Adaptable Neighbourhoods.pdf",
+    "2023-11-20.pdf",
+    "attachments/23318.jpg",
+    "attachments",
+    "Untitled.canvas"
   ]
 }
