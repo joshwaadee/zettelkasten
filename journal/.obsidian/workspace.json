@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c018c3056362a689",
+        "id": "ab78b98b728f41a9",
         "type": "tabs",
         "children": [
           {
-            "id": "547bb53fbdbaec6d",
+            "id": "8c16e430f08b1b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/2023-12-04.md",
+                "file": "daily_notes/2023-12-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/2023-12-04.md",
+                "file": "daily_notes/2023-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/2023-12-04.md",
+                "file": "daily_notes/2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/2023-12-04.md"
+                "file": "daily_notes/2023-12-08.md"
               }
             }
           },
@@ -156,11 +156,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "547bb53fbdbaec6d",
+  "active": "8c16e430f08b1b1d",
   "lastOpenFiles": [
+    "daily_notes/2023-12-05.md",
+    "daily_notes/2023-12-08.md",
+    "daily_notes/2023-12-04.md",
     "daily_notes/2023-11-23.md",
     "daily_notes/2023-11-29.md",
-    "daily_notes/2023-12-04.md",
     "attachments/GitHub-Flow.webp",
     "daily_notes/2023-11-12.md",
     "daily_notes/2023-11-22.md",
@@ -187,7 +189,6 @@
     "journal/daily_notes/2023-11-20.md",
     "journal/daily_notes/2023-11-19.md",
     "journal/daily_notes/2023-11-18.md",
-    "journal/daily_notes/2023-11-17.md",
     "journal/daily_notes",
     "journal",
     "New folder",
