@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/2023-12-08.md",
+                "file": "media/Unhappy Meals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/2023-12-08.md",
+                "file": "media/Unhappy Meals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/2023-12-08.md",
+                "file": "media/Unhappy Meals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/2023-12-08.md"
+                "file": "media/Unhappy Meals.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "8c16e430f08b1b1d",
   "lastOpenFiles": [
-    "daily_notes/2023-12-05.md",
+    "daily_notes/2023-12-13.md",
+    "media/Unhappy Meals.md",
+    "media",
     "daily_notes/2023-12-08.md",
+    "daily_notes/2023-12-05.md",
     "daily_notes/2023-12-04.md",
     "daily_notes/2023-11-23.md",
     "daily_notes/2023-11-29.md",
@@ -187,15 +190,12 @@
     "journal/daily_notes/2023-11-22.md",
     "journal/daily_notes/2023-11-21.md",
     "journal/daily_notes/2023-11-20.md",
-    "journal/daily_notes/2023-11-19.md",
-    "journal/daily_notes/2023-11-18.md",
     "journal/daily_notes",
     "journal",
     "New folder",
     "Ownership in Rust.pdf",
     "attachments/23318 1.jpg",
     "Adaptable Neighbourhoods.pdf",
-    "2023-11-20.pdf",
     "attachments/23318.jpg",
     "Untitled.canvas"
   ]
