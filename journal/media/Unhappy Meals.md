@@ -17,7 +17,7 @@ won't kill you, though it's better approached as a side dish than as
 a main. And you're much better off eating whole fresh foods than
 processed food products. That's what I mean by the recommendation to
 eat "food." Once, food was all you could eat, but today there are
-lots of other edible foodlike substances in the supermarket. These
+lots of other edible food-like substances in the supermarket. These
 novel products of food science often come in packages festooned with
 health claims, which brings me to a related rule of thumb: if you're
 concerned about your health, you should probably avoid food products

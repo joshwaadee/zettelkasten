@@ -3,5 +3,7 @@
   "cssTheme": "Dracula Official",
   "baseFontSize": 15,
   "theme": "obsidian",
-  "textFontFamily": "Fira Code"
+  "textFontFamily": "IBM Plex Sans",
+  "interfaceFontFamily": "IBM Plex Sans",
+  "monospaceFontFamily": "Fira Code"
 }
